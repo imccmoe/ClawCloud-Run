@@ -37,6 +37,7 @@
 | `TG_CHAT_ID` | ❌ | Telegram Chat ID |
 | `REPO_TOKEN` | ❌ | GitHub PAT（用于自动更新 Secret） |
 
+
 ---
 
 ## 🚀 快速开始
